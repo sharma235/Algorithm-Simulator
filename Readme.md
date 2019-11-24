@@ -1,1 +1,2 @@
-A Repository for testing git commands
+Algorithm Simulator
+
