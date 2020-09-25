@@ -1,3 +1,3 @@
 Algorithm Simulator
 
-![Watch the video](videos/sample.mkv)
+![Watch the video](video/sample.mkv)
